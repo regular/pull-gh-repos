@@ -1,6 +1,6 @@
 {
   "name": "list-github-repos",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Get meta-data of all repositories by a specific organisation as a pull-stream",
   "main": "index.js",
   "scripts": {
@@ -35,7 +35,7 @@
     "url": "git+https://github.com/regular/pull-gh-repos.git"
   },
   "bugs": {
-    "url": "https://github.com/regular/liked-on-youtube/issues"
+    "url": "https://github.com/regular/pull-gh-repos/issues"
   },
-  "homepage": "https://github.com/regular/liked-on-youtube#readme"
+  "homepage": "https://github.com/regular/pull-gh-repos#readme"
 }
